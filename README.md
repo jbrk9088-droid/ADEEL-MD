@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="https://files.catbox.moe/8pfh7i.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
+  <img src="https://files.catbox.moe/8pfh7i.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃 OWNER JB" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
 </h1>  
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
@@ -15,7 +15,7 @@
 <!-- DEVELOPER NAME SVG -->
 <p align="center">
   <a href="https://github.com/Adeel-Xtech" target="_blank">
-    <img src="./ADEEL/adeel.svg" width="300" alt="Developer — ADEEL (Gold 3D)">
+    <img src="./JB/adeel.svg" width="300" alt="Developer — JB (Gold 3D)">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 <!-- CHANNEL UPDATE SVG -->
 <p align="center">
   <a href="https://t.me/Jotp90_bot?start=7191925896" target="_blank">
-    <img src="./ADEEL/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
+    <img src="./JB/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
 
