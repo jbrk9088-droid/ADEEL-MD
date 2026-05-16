@@ -12,11 +12,12 @@
 <!-- DECORATIVE LINE -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<!-- DEVELOPER NAME SVG -->
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech" target="_blank">
-    <img src="./Adeel/adeel.svg" width="300" alt="Developer — Adeel (Gold 3D)">
-  </a>
+  <img 
+    src="https://raw.githubusercontent.com/Adeel-Xtech/JB-BOT/main/JB/JB.svg"
+    width="300"
+    alt="JB Logo"
+  />
 </p>
 
 <!-- DECORATIVE LINE -->
