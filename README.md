@@ -25,7 +25,7 @@
 <!-- CHANNEL UPDATE SVG -->
 <p align="center">
   <a href="https://t.me/Jotp90_bot?start=7191925896" target="_blank">
-    <img src="./JB/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
+    <img src="./adeel/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
 
