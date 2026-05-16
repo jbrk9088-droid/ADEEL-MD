@@ -15,7 +15,7 @@
 <!-- DEVELOPER NAME SVG -->
 <p align="center">
   <a href="https://github.com/Adeel-Xtech" target="_blank">
-    <img src="./JB/adeel.svg" width="300" alt="Developer — JB (Gold 3D)">
+    <img src="./Adeel/adeel.svg" width="300" alt="Developer — JB (Gold 3D)">
   </a>
 </p>
 
